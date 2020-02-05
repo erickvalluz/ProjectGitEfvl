@@ -1,0 +1,9 @@
+F:\OneDrive - Centre d'Estudis Monlau\2DAM\Visual Studio\PracticaDNI\bin\Debug\PracticaDNI.exe.config
+F:\OneDrive - Centre d'Estudis Monlau\2DAM\Visual Studio\PracticaDNI\bin\Debug\PracticaDNI.exe
+F:\OneDrive - Centre d'Estudis Monlau\2DAM\Visual Studio\PracticaDNI\bin\Debug\PracticaDNI.pdb
+F:\OneDrive - Centre d'Estudis Monlau\2DAM\Visual Studio\PracticaDNI\obj\Debug\PracticaDNI.csprojAssemblyReference.cache
+F:\OneDrive - Centre d'Estudis Monlau\2DAM\Visual Studio\PracticaDNI\obj\Debug\PracticaDNI.Form1.resources
+F:\OneDrive - Centre d'Estudis Monlau\2DAM\Visual Studio\PracticaDNI\obj\Debug\PracticaDNI.Properties.Resources.resources
+F:\OneDrive - Centre d'Estudis Monlau\2DAM\Visual Studio\PracticaDNI\obj\Debug\PracticaDNI.csproj.GenerateResource.cache
+F:\OneDrive - Centre d'Estudis Monlau\2DAM\Visual Studio\PracticaDNI\obj\Debug\PracticaDNI.exe
+F:\OneDrive - Centre d'Estudis Monlau\2DAM\Visual Studio\PracticaDNI\obj\Debug\PracticaDNI.pdb
