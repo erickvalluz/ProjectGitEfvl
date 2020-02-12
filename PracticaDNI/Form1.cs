@@ -24,8 +24,12 @@ namespace PracticaDNI
             textBoxLetter.Text = letter.ToString();
         }
         private char fuctionDNI(int dni){
-        char letter = 'A';
-        return letter;
+        
+            //string letter = "TRWAGMYFPDXBNJZSQVHLCKE";
+            return "TRWAGMYFPDXBNJZSQVHLCKE"[dni % 23];
+            
         }
+        
+
     }
 }
